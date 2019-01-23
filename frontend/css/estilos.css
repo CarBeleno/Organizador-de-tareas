@@ -1,0 +1,38 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+  background: #fff;
+  border: 2px solid #0c5460;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.t-agregar{
+  color: rgb(34, 42, 96);
+}
+
+.t-editar{
+  color: rgb(10, 86, 91);
+}
+
+h3{
+  color: #565656;
+}
+
+a{
+  background: rgb(50, 148, 166);
+  color: #ffff;
+  padding: 2px 3px;
+  border-radius: 2px;
+}
+
+div .ctn-regresar{
+  text-align: center;
+  margin: 40px;
+}
+div .regresar{
+  background: #fff;
+  color: rgb(37, 49, 215);
+}
